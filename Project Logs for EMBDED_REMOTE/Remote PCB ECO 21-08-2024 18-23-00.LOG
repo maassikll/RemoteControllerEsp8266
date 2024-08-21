@@ -1,0 +1,60 @@
+Removed Member From Class: ClassName=lithiumCharger Member=C1
+Removed Member From Class: ClassName=lithiumCharger Member=R1
+Added Pin To Net: NetName=BAT Pin=J1-5
+Added Net: Name=BAT
+Added Pin To Net: NetName=CE Pin=J1-8
+Added Net: Name=CE
+Added Pin To Net: NetName=CHRG Pin=J1-7
+Added Net: Name=CHRG
+Added Pin To Net: NetName=CS Pin=IC1-2
+Added Net: Name=CS
+Added Pin To Net: NetName=D12_1 Pin=Q1-1
+Added Net: Name=D12_1
+Added Pin To Net: NetName=D12_2 Pin=Q1-8
+Added Net: Name=D12_2
+Added Pin To Net: NetName=EN Pin=U1-6
+Added Net: Name=EN
+Added Pin To Net: NetName=EP Pin=J1-9
+Added Net: Name=EP
+Added Pin To Net: NetName=G1 Pin=Q1-4
+Added Net: Name=G1
+Added Pin To Net: NetName=G2 Pin=Q1-5
+Added Net: Name=G2
+Added Pin To Net: NetName=GND Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO0/FLS Pin=U1-3
+Added Net: Name=GPIO0/FLS
+Added Pin To Net: NetName=GPIO1/TX Pin=U1-5
+Added Net: Name=GPIO1/TX
+Added Pin To Net: NetName=GPIO2 Pin=U1-2
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO3/RX Pin=U1-4
+Added Net: Name=GPIO3/RX
+Added Pin To Net: NetName=OC Pin=IC1-3
+Added Net: Name=OC
+Added Pin To Net: NetName=OD Pin=IC1-1
+Added Net: Name=OD
+Added Pin To Net: NetName=PROG Pin=J1-2
+Added Net: Name=PROG
+Added Pin To Net: NetName=RST Pin=U1-7
+Added Net: Name=RST
+Added Pin To Net: NetName=S1_1 Pin=Q1-2
+Added Net: Name=S1_1
+Added Pin To Net: NetName=S1_2 Pin=Q1-3
+Added Net: Name=S1_2
+Added Pin To Net: NetName=S2_2 Pin=Q1-6
+Added Pin To Net: NetName=S2_2 Pin=Q1-7
+Added Net: Name=S2_2
+Added Pin To Net: NetName=STDBY Pin=J1-6
+Added Net: Name=STDBY
+Added Pin To Net: NetName=TD Pin=IC1-4
+Added Net: Name=TD
+Added Pin To Net: NetName=TEMP Pin=J1-1
+Added Net: Name=TEMP
+Added Pin To Net: NetName=VCC Pin=IC1-5
+Added Pin To Net: NetName=VCC Pin=J1-4
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Net: Name=VCC
+Change Class Name : Old Net Name=lithiumCharger New Net Name=RemoteShematics

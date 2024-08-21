@@ -1,0 +1,14 @@
+Change Component Comment : Designator=U1 Old Comment=Comment New Comment=ESP8266-01/ESP-01
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change component parameters: Designator = "U1" ("U1"); Footprint = "XCVR_ESP8266-01/ESP-01"; UniqueID = "\HFQUVSDT" ("\HFQUVSDT")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ESP8266-01/ESP-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=lithiumCharger Member=Component U1 ESP8266-01/ESP-01

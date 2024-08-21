@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=-5 Pin=R?-1
+Removed Pin From Net: NetName=CHRG Pin=R?-2
+Removed Pin From Net: NetName=PROG Pin=R?-2
+Change Component Comment : Designator=R? Old Comment=1.2k New Comment=1k
+Change Component Comment : Designator=R? Old Comment=1k New Comment=1.2k
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change component parameters: Designator = "R?" ("R?"); Footprint = "RESC2012X65N"; UniqueID = "\BIGKZOEC" ("\BIGKZOEC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B102RE1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?" ("R?"); Footprint = "RESC2012X65N"; UniqueID = "\WBQWCQXY" ("\WBQWCQXY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B102RE1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-5 Pin=R?-1
+Added Pin To Net: NetName=CHRG Pin=R?-2
+Added Pin To Net: NetName=PROG Pin=R?-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R2-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R?-1
+Added Net: Name=NetLED2_1
+Added Member To Class: ClassName=LithiumChargerShematics Member=Component LED1 B
+Added Member To Class: ClassName=LithiumChargerShematics Member=Component R? 1.2k
+Added Member To Class: ClassName=LithiumChargerShematics Member=Component R? 1k
