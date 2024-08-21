@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=+5 Pin=IC1-5
+Removed Pin From Net: NetName=+5 Pin=U1-8
+Added Component: Designator=C2(CAPC2013X140N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/08053C474JAT2A?qs=bb%252B1MDm7h6L8wnHciIrwGg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2013X140N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/08053C474JAT2A?qs=bb%252B1MDm7h6L8wnHciIrwGg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2012X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B102RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2012X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B102RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-5 Pin=C2-1
+Added Pin To Net: NetName=-5 Pin=C3-1
+Added Pin To Net: NetName=-5 Pin=C3-2
+Added Pin To Net: NetName=G1 Pin=IC1-1
+Added Pin To Net: NetName=G2 Pin=IC1-3
+Added Pin To Net: NetName=-5 Pin=J1-5
+Added Pin To Net: NetName=-5 Pin=Q1-2
+Added Pin To Net: NetName=-5 Pin=Q1-3
+Added Pin To Net: NetName=-5 Pin=Q1-6
+Added Pin To Net: NetName=-5 Pin=Q1-7
+Added Pin To Net: NetName=D12_1 Pin=Q1-8
+Added Pin To Net: NetName=-5 Pin=R4-2
+Added Pin To Net: NetName=-5 Pin=R5-1
+Added Pin To Net: NetName=CS Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=IC1-5
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Net: Name=VCC
+Added Member To Class: ClassName=LithiumChargerShematics Member=Component C2 0.1u
+Added Member To Class: ClassName=LithiumChargerShematics Member=Component C3 10u
+Added Member To Class: ClassName=LithiumChargerShematics Member=Component R4 100
+Added Member To Class: ClassName=LithiumChargerShematics Member=Component R5 1k
