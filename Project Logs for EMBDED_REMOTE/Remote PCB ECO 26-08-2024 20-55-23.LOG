@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetQ?_1 Pin=R10-2
+Added Net: Name=NetQ?_1
+Added Member To Class: ClassName=LM317Shamtics Member=Component D1 M7
+Added Member To Class: ClassName=LM317Shamtics Member=Component D2 M7

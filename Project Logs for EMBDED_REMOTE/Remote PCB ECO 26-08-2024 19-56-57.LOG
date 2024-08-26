@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=-5 Pin=J?-1
+Removed Pin From Net: NetName=GPIO2 Pin=J?-2
+Removed Pin From Net: NetName=GPIO0/FLS Pin=J?-3
+Removed Pin From Net: NetName=GPIO3/RX Pin=J?-4
+Removed Pin From Net: NetName=GPIO1/TX Pin=J?-5
+Removed Pin From Net: NetName=EN Pin=J?-6
+Removed Pin From Net: NetName=RST Pin=J?-7
+Removed Pin From Net: NetName=VCC Pin=J?-8
+Removed Member From Class: ClassName=RemoteShematics Member=J?
+Added Component: Designator=J2(HEADER PIN 1x8)
+Added Component: Designator=J3(Switch button)
+Added Component: Designator=Q2(TO92250P510H770-3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC550C/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "BC550COS-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC550C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "E-PKG AXIAL-LEADED-2 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC550C/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC550C/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(TO92250P510H770-3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC550C/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "BC550COS-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC550C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "E-PKG AXIAL-LEADED-2 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC550C/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC550C/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2012X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B102RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC2012X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B102RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC2012X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B102RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC2012X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B102RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC2012X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B102RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO1/TX Pin=J2-4
+Added Pin To Net: NetName=GPIO2 Pin=J2-5
+Added Pin To Net: NetName=GPIO3/RX Pin=J2-8
+Added Pin To Net: NetName=-5 Pin=J3-1
+Added Pin To Net: NetName=RST Pin=J3-2
+Added Pin To Net: NetName=RST Pin=Q2-1
+Added Pin To Net: NetName=GPIO0/FLS Pin=Q3-3
+Added Pin To Net: NetName=RST Pin=R6-1
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R7-1
+Added Pin To Net: NetName=GPIO0/FLS Pin=R7-2
+Added Pin To Net: NetName=EN Pin=R8-1
+Added Pin To Net: NetName=VCC Pin=R8-2
+Change Net Name : Old Net Name=VCC New Net Name=+3V3
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=NetJ2_6 Pin=Q2-3
+Added Pin To Net: NetName=NetJ2_6 Pin=R10-1
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetJ2_7 Pin=J2-7
+Added Pin To Net: NetName=NetJ2_7 Pin=Q3-1
+Added Pin To Net: NetName=NetJ2_7 Pin=R9-1
+Added Net: Name=NetJ2_7
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R9-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R10-2
+Added Net: Name=NetQ3_2
+Added Class: Name=programmeShematics

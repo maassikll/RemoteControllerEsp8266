@@ -1,0 +1,32 @@
+Added Component: Designator=Q2(SOT23)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BC850C,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bc850c215/nexperia?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BC849_BC850.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC850C,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BC850C-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BC850C215?qs=me8TqzrmIYVR%2FGACbHj0Ow%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT23)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BC850C,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bc850c215/nexperia?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BC849_BC850.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC850C,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BC850C-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BC850C215?qs=me8TqzrmIYVR%2FGACbHj0Ow%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_6 Pin=Q2-2
+Added Pin To Net: NetName=RST Pin=Q2-3
+Added Pin To Net: NetName=GPIO0/FLS Pin=Q3-2
+Added Pin To Net: NetName=NetJ2_7 Pin=Q3-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R9-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R10-2
+Added Net: Name=NetQ3_1
+Added Member To Class: ClassName=LM317Shamtics Member=Component D1 M7
+Added Member To Class: ClassName=LM317Shamtics Member=Component D2 M7
+Added Member To Class: ClassName=programmeShematics Member=Component Q2 BC850C,215
+Added Member To Class: ClassName=programmeShematics Member=Component Q3 BC850C,215

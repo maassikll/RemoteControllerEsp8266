@@ -1,0 +1,14 @@
+Added Component: Designator=J?(HEADER PIN 1x8)
+Added Component: Designator=SW1(Switch button  6 x 3.5 x 2.5 mm)
+Added Component: Designator=SW2(Switch button  6 x 3.5 x 2.5 mm)
+Added Pin To Net: NetName=-5 Pin=J?-1
+Added Pin To Net: NetName=GPIO2 Pin=J?-2
+Added Pin To Net: NetName=GPIO0/FLS Pin=J?-3
+Added Pin To Net: NetName=GPIO3/RX Pin=J?-4
+Added Pin To Net: NetName=GPIO1/TX Pin=J?-5
+Added Pin To Net: NetName=EN Pin=J?-6
+Added Pin To Net: NetName=RST Pin=J?-7
+Added Pin To Net: NetName=VCC Pin=J?-8
+Added Member To Class: ClassName=RemoteShematics Member=Component J? Header Pins
+Added Member To Class: ClassName=RemoteShematics Member=Component SW1 Switch button 6 x 3.5 x 2.5 mm
+Added Member To Class: ClassName=RemoteShematics Member=Component SW2 Switch button 6 x 3.5 x 2.5 mm

@@ -1,0 +1,20 @@
+Added Component: Designator=D1(DIOM505270X240)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M7/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AC Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M7/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIOM505270X240)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M7/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AC Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M7/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=D1-A
+Added Pin To Net: NetName=+3V3 Pin=D1-C
+Added Pin To Net: NetName=+3V3 Pin=D2-A
+Added Pin To Net: NetName=NetC6_1 Pin=D2-C
+Added Member To Class: ClassName=LM317Shamtics Member=Component D1 M7
+Added Member To Class: ClassName=LM317Shamtics Member=Component D2 M7
