@@ -1,0 +1,6 @@
+Added Component: Designator=J5(HEADER PIN 1x2)
+Added Pin To Net: NetName=-5 Pin=J5-1
+Added Pin To Net: NetName=+5 Pin=J5-2
+Change Net Name : Old Net Name=+5 New Net Name=+5V
+Change Net Name : Old Net Name=-5 New Net Name=-5V
+Added Member To Class: ClassName=LithiumChargerShematics Member=Component J5 Header Pins
