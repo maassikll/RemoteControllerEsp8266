@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=-5V Pin=J4-2
+Change Component Comment : Designator=J4 Old Comment=Barrel_jack New Comment=ZX62D-B-5P8
+Change component parameters: Designator = "J4" ("J4"); Footprint = "GCT_DCJ200-10-A-XX-K_REVA"; UniqueID = "\ENZLQRRV" ("\ENZLQRRV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ZX62D-B-5P8/Hirose/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Hirose Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ZX62D-B-5P8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ZX62D-B-5P8/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ZX62D-B-5P8/Hirose/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=RemoteShematics Member=Component J1 TP4056

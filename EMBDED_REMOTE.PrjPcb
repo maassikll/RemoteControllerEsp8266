@@ -157,40 +157,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
 [Document8]
-DocumentPath=..\..\..\Downloads\Compressed\ACR-Components-main\ACR-Components-main\ACR Components.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
-DocumentPath=..\..\..\Downloads\Compressed\ACR-Components-main\ACR-Components-main\ACR Components.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
 DocumentPath=..\..\..\Downloads\Compressed\ACR-Components-main_2\ACR-Components-main\ACR Components.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=..\..\..\Downloads\Compressed\ACR-Components-main_2\ACR-Components-main\ACR Components.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=programmeShematics.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTYBGLNI
 
-[Document13]
+[Document11]
 DocumentPath=..\..\..\Downloads\BC550C\BC550C\BC550C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STUMCSCN
 
-[Document14]
+[Document12]
 DocumentPath=..\..\..\Downloads\BC550C\BC550C\TO92250P510H770-3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVYXMALG
 
-[Document15]
+[Document13]
 DocumentPath=LM317Shamtics.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONPSOLNH
 
-[Document16]
+[Document14]
 DocumentPath=..\..\..\Downloads\1N4007\1N4007.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCNPZJZO
 
-[Document17]
+[Document15]
 DocumentPath=..\..\..\Downloads\1N4007\DIOAD1060W80L520D270.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VCRLSVAU
 
-[Document18]
+[Document16]
 DocumentPath=..\..\..\Downloads\DCJ200-10-A-XX-K_REVA\DCJ200-10-A-XX-K_REVA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTQQQAGK
 
-[Document19]
+[Document17]
 DocumentPath=..\..\..\Downloads\DCJ200-10-A-XX-K_REVA\GCT_DCJ200-10-A-XX-K_REVA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYMFXFMH
 
-[Document20]
+[Document18]
 DocumentPath=..\..\..\Downloads\M7\DIOM505270X240.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMQWQQNP
 
-[Document21]
+[Document19]
 DocumentPath=..\..\..\Downloads\M7\M7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1

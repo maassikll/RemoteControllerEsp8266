@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=J4-1
+Removed Member From Class: ClassName=LM317Shamtics Member=J4
+Added Component: Designator=J?(HRS_ZX62D-B-5P8)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ZX62D-B-5P8/Hirose/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hirose Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ZX62D-B-5P8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ZX62D-B-5P8/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ZX62D-B-5P8/Hirose/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_1 Pin=J?-1
+Added Pin To Net: NetName=-5V Pin=J?-5
+Added Member To Class: ClassName=LM317Shamtics Member=Component J? ZX62D-B-5P8
