@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=+3V3 Pin=C1-1
+Added Pin To Net: NetName=+3V3 Pin=J1-8
+Added Pin To Net: NetName=+3V3 Pin=J5-2
+Added Pin To Net: NetName=+3V3 Pin=LED1-2
+Added Pin To Net: NetName=+3V3 Pin=LED2-2
+Change Net Name : Old Net Name=-5V New Net Name=B-

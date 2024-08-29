@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5V Pin=J1-4
+Added Pin To Net: NetName=+3V3 Pin=J1-4
+Added Member To Class: ClassName=programmeShematics Member=Component J2 Header Pins
